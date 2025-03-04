@@ -41,6 +41,8 @@ Lots of words go here.
 
 # Heading
 
+This was another conflict, and I am not solving it, I'm sending it back to Mackenzie so she can decide the text that she wants to keep.
+
 <<<<<<< HEAD
 lots of words I am also adding a bunch of words here.
 =======
