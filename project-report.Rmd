@@ -41,6 +41,10 @@ Lots of words go here.
 
 # Heading
 
+<<<<<<< HEAD
 lots of words I am also adding a bunch of words here.
+=======
+lots of words. This is more text. and lots more words. 
+>>>>>>> fe3c17bc8b94f31a8ca4058fa9d04c7071ce63ae
 
 # References
