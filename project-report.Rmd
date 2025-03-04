@@ -41,6 +41,6 @@ Lots of words go here.
 
 # Heading
 
-lots of words
+lots of words. This is more text. and lots more words. 
 
 # References
